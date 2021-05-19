@@ -1,0 +1,14 @@
+.background {
+  background-color: #8C30F5;
+}
+
+.title-pre-footer {
+  color: white;
+  font-size: 48px;
+}
+
+@media (max-width: 425px){
+  .pre-footer-width {
+    width: 100%;
+  }
+}
