@@ -15,9 +15,9 @@ const Content = () => {
           <button className="btn">Button</button>
         </div>
         <div className="content-info">
-            <img className="img-circle" src={circle}/>
+            <img className="img-circle" src={circle} alt="#"/>
             <div className="img-preview">
-            <img src={preview}/>
+            <img src={preview} alt="#"/>
             </div>
         </div>
       </div>
