@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div className="border-line">
       <div className="header-flex container ">
-        <img src={logo} />
+        <img src={logo}  alt="#"/>
         <Nav />
       </div>
     </div>

@@ -7,11 +7,11 @@ const Nav = () => {
     <div>
       <div className="navbar">
         <ul>
-          <li><a href="#">How it Works</a></li>
-          <li><a href="#">About us</a></li>
-          <li><a href="#">Partners</a></li>
-          <li><a href="#">How it Works</a></li>
-          <li><a href="#">Support</a></li>
+          <li><a href="#how">How it Works</a></li>
+          <li><a href="#about">About us</a></li>
+          <li><a href="#partners">Partners</a></li>
+          <li><a href="#how">How it Works</a></li>
+          <li><a href="#support">Support</a></li>
         </ul>
         <button className="btn">Buy now</button>
         <img className= "menu-mobile" src={menu} alt='#' />
